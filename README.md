@@ -1,2 +1,2 @@
 # Proffy
- <img src="/RafaelGoulartB/Proffy/raw/master/.github/logo.png" alt="Proffy"/>
+ <img src="/T4vexx/ProffyPlataform/web/src/assets/images/logo.svg" alt="Proffy"/>
